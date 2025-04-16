@@ -33,4 +33,5 @@ for id, seq in seqs.items():
         max_gc=gc
         max_id=id
 print(max_gc)
+
 print(max_id)
